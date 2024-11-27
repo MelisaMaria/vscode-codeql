@@ -1,1 +1,0 @@
-export const INITIAL_HIDE_MODELED_METHODS_VALUE = true;

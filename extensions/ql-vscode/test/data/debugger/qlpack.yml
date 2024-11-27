@@ -1,4 +1,0 @@
-name: integration-test-debugger-javascript
-version: 0.0.0
-dependencies:
-  codeql/javascript-queries: "*"

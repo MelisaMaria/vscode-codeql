@@ -1,4 +1,0 @@
-name: foo/bar
-version: 0.0.0
-dependencies:
-  foo/baz: '*'
