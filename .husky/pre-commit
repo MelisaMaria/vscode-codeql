@@ -1,1 +1,0 @@
-cd extensions/ql-vscode && npm run format-staged
